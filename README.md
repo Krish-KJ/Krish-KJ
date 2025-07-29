@@ -19,7 +19,7 @@
 ---
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Krish-KJ&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Krish-KJ&theme=tokyonight&margin-w=15&margin-h=15&column=6)
 
 ---
 
