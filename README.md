@@ -8,6 +8,22 @@
 
 ---
 
+## 🛠 Tech Stack & Tools
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-KJ&show_icons=true&theme=tokyonight)
 
