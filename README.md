@@ -52,3 +52,20 @@
 ---
 
 ⭐ **From [Krish-KJ](https://github.com/Krish-KJ)**
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham1919284&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham1919284&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham1919284&theme=github_dark" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham1919284&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham1919284&theme=github_dark" alt="Most Commit Language" />
+</p>
+
