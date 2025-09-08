@@ -54,14 +54,8 @@
 ⭐ **From [Krish-KJ](https://github.com/Krish-KJ)**
 
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham1919284&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham1919284&theme=github_dark" alt="GitHub Stats" />
-</p>
+![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-overview?username=Shubham1919284&theme=github_dark)
 
 
